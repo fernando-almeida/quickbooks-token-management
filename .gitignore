@@ -1,0 +1,5 @@
+vendor
+logs
+data
+sdk.config
+App.config
