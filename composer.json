@@ -1,6 +1,6 @@
 {
-    "name": "falmeida/quickbooks-oauth-management",
-    "description": "Manage QuickBooks OAuth operations",
+    "name": "fernando-almeida/quickbooks-token-management",
+    "description": "Library that provides facilities to help manage the QuickBooks API Tokens",
     "type": "project",
     "authors": [
         {
